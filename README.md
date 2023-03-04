@@ -9,6 +9,7 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-c
 #### -Using list comprehention to split the string
 #### -Using string adjutment to match format requirement
 #### -Using pytest to create online progress test
+#### -self tester function to do pre test
 
 ### Test Scenario :
 1.The function will return the correct conversion if the supplied problems are properly formatted,
@@ -38,6 +39,7 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-c
   -There should be dashes at the bottom of each problem. The dashes should run along the entire length of each problem individually. (The example above shows what this should look like.)
 
 ![example](example.jpg) 
+
 
 #### Test Result 
 ![complete](complete.jpg)
