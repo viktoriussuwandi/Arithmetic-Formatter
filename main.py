@@ -136,7 +136,7 @@ def test():
   a10 = '   32         1      45      123      988\n- 698    - 3801    + 43    +  49    +  40\n-----    ------    ----    -----    -----\n -666     -3800      88      172     1028'
 
   print('\n---------------------My Self Making Tester Code---------------------\n')
-  print(arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"]))
+  print(arithmetic_arranger1(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"]))
   checking = [
     {'checking 1': arithmetic_arranger1(p1[0])   == a1},
     {'checking 2': arithmetic_arranger1(p2[0])   == a2},

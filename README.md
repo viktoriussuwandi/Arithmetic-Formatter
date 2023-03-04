@@ -2,11 +2,12 @@
 #### Solution running on : https://replit.com/@ViktoriusSuwand/Arithmetic-Formatter
 
 This is the result to complete the Arithmetic Formatter project. 
-Instructions for building your project can be found at 
+Instructions for building my project can be found at 
 https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
 
 ###  Some of additional features :
 #### -Using list comprehention to split the string
+#### -Using ternary operator to fix space between string
 #### -Using string adjutment to match format requirement
 #### -Using pytest to create online progress test
 #### -self tester function to do pre test
