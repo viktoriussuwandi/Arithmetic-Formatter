@@ -1,5 +1,5 @@
 # Arithmetic Formatter
-#### Solution running on : https://replit.com/@ViktoriusSuwand/Arithmetic-Formatter
+#### Documentation can be found on on : [https://github.com/viktoriussuwandi/Arithmetic-Formatter](https://github.com/viktoriussuwandi/Arithmetic-Formatter)
 
 This is the result to complete the Arithmetic Formatter project. 
 Instructions for building this project can be found at 
